@@ -1,2 +1,2 @@
 # spring-boot-fun
-Sprint Boot
+Spring Boot
